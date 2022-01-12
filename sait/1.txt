@@ -1,0 +1,27 @@
+<html>
+<head>
+	<title>LitraBot</title>
+	<link rel="stylesheet" href="E:/xabirov.m@mail.ru/Информатика/инфа/Проект/11 класс/Сайт/CSS/style.css">
+</head>
+<body >
+	<header class="header">
+		<div class="container">
+			<div class="header_inner">
+				<div class="header_logo">LitraBot</div>
+				<nav>
+					<a href="#">О чем проект?</a>
+					<a href="#">Как использовать?</a>
+					<a href="#">Чем полезен?</a>
+					<a href="#">вырывапр</a>
+					<a href="#">вап</a>
+				</nav>
+			</div>	
+		</div>
+	</header>
+	<div class="1block" >
+		<div class="container">
+			<h1>Приветствуем вас на нашем сайте</h1>
+		</div>
+	</div>
+</body>
+</html>
